@@ -6,6 +6,8 @@ A university project exploring two fundamental neural network architectures: Mul
 
 This part explores **Multilayer Perceptron (MLP)** neural networks, covering key aspects of network design, training optimization, and model evaluation. The work focused on implementing core neural network mechanisms from scratch and analyzing their performance across various datasets.
 
+Report: https://github.com/hoanganhlinh/MIO/blob/main/NN/NN___MLP_raport.pdf
+
 ### NN1 – Base Implementation
 
 Developed the core MLP architecture with adjustable layers and neurons. Parameters were manually tuned to achieve optimal mean squared error (MSE) for regression datasets.
@@ -30,18 +32,13 @@ Integrated multiple activation functions: **sigmoid**, **tanh**, **ReLU**, and *
 
 Implemented **L2 regularization** and **early stopping** to prevent overfitting. Analyzed their effect on convergence and generalization, confirming their benefits for sparse and imbalanced datasets.
 
-
-
-
-
-
-
-
-
+---
 
 ## KOH - Kohonen Networks (SOM)
 
 This part explores **Self-Organizing Maps (SOM)**, also known as **Kohonen Networks**, applied to clustering and visualization of multidimensional data.
+
+Report: https://github.com/hoanganhlinh/MIO/blob/main/KOH/KOH_raport.pdf
 
 ### KOH1 – Basic Kohonen Network
 
